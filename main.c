@@ -40,9 +40,9 @@ printf("\n THANK YOU\n");
 void votesCount(){
 printf("\n\n ***** \tVoting Statics\t *****");
 printf("\n %s - %d ", CANDIDATE1, votesCount1);
-printf("\n %s - %d ", CANDIDATE1, votesCount2);
-printf("\n %s - %d ", CANDIDATE1, votesCount3);
-printf("\n %s - %d ", CANDIDATE1, votesCount4);
+printf("\n %s - %d ", CANDIDATE2, votesCount2);
+printf("\n %s - %d ", CANDIDATE3, votesCount3);
+printf("\n %s - %d ", CANDIDATE4, votesCount4);
 printf("\n %s - %d ", "Spoiled Votes", spoiledtvotes); 
 }
 
